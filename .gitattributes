@@ -1,1 +1,5 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
+gpmall-shopping-0.0.1-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
+gpmall-user-0.0.1-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
+shopping-provider-0.0.1-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
+user-provider-0.0.1-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
